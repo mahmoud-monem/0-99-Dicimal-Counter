@@ -2,7 +2,7 @@
 
 ### **Description**
 
-0-99 Decimal Counter using seven segment
+0-99 Decimal Counter using seven segment, AVR microcontroller and proteus to simulate the task
 
 ### **Author Info**
 
